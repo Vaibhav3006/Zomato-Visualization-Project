@@ -16,3 +16,6 @@ Important Assumptions:
 * **Rate**: Rate represents average rating . Of each restaurant which has been used as a metric for **Quality** .
 * **Approx_cost**: Average approximate cost for 2 people have been chosen as a metric for **Affordability**.
 
+
+
+Extensive **Natural Language Processing** has also been done on  the **reviews_list** column (refer to code line 57 of the jupyter notebook) along with visualizations of *Parts of speech tags* and *Named Entity Recogonition* using wordcloud,matplotlib and spacy libraries.
